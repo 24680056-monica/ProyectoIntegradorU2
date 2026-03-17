@@ -414,3 +414,9 @@ ft.app(
     assets_dir="assets"
 )
 ```
+# Despliegue en web
+Se muestran los resultados, la documentacion se encuentra en el apartado del documento llamado "Despliegue"
+
+-Link: https://24680056-monica.github.io/perfumesweb/
+<img width="1697" height="974" alt="image" src="https://github.com/user-attachments/assets/3387a5bf-558b-4d64-a2b1-828742286c15" />
+
