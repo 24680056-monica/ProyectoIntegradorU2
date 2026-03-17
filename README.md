@@ -44,6 +44,8 @@ productos = [
 - ruta_imagen : imagen que se mostrará en la tarjeta
 Siendo necesario para mostrarse en las tarjetas
 
+### Nota importante 
+En nuestra carpeta donde está nuestro main se creará otra carpeta llamada imágenes ( o assets) que dentro contendrá las imágenes que mostrará nuestro catálogo, con la dirección indicada. (En este caso fuimos colocando su dirección como numero ej: "1.jpg") éstas serán mandadas a traer por medio de la `ruta_imagen`.
 ## Creación de un componente reutilizable
 
 Después se crea una clase llamada `ProductoCard`, la cual representa una tarjeta visual para cada producto.
